@@ -23,7 +23,7 @@ $(document).ready(function () {
             console.log(blockTime)
 
           
-            // $(this).children("textarea").addClass("future");
+            
 
             // To check the time and add the classes for background indicators
             if (blockTime < timeNow) {
